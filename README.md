@@ -8,6 +8,6 @@ Twist is a writing app for people with busy lives. It helps you write every day 
 1) **Offline First** - All data and basic functionality should be available offline to give people control over their data.
 
 ## Milestones
-1) Journal
+1) [Journal](./MS1/README.md)
 1) Blog Post
 1) Short Story
