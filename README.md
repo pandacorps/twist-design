@@ -9,5 +9,6 @@ Twist is a writing app for people with busy lives. It helps you write every day 
 
 ## Milestones
 1) [Journal](./MS1/README.md)
+1) Notifications
 1) Blog Post
 1) Short Story
